@@ -67,7 +67,6 @@ Happy learning, and may your defenses be as strong as your attacks!
 - Comparison --> https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/687450725031338
 
 ## Module 1:
-## Other tools:
 
 Threat Dragon: 
 - https://owasp.org/www-project-threat-dragon/
