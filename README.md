@@ -66,6 +66,34 @@ Happy learning, and may your defenses be as strong as your attacks!
 - TIBER-EU --> https://tiber.info/
 - Comparison --> https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/687450725031338
 
+## Module 1:
+## Other tools:
+
+Threat Dragon: 
+- https://owasp.org/www-project-threat-dragon/
+
+Threat Agile:
+
+- [https://threagile.io](https://threagile.io/)
+- [https://run.threagile.io](https://run.threagile.io/)
+- https://www.youtube.com/watch?v=5n-8LqHMoJ0
+
+Threat Composer AWS:
+
+- https://awslabs.github.io/threat-composer/workspaces/default/dashboard
+
+IRIUS Risk
+
+- [https://community.iriusrisk.comhttps://community.iriusrisk.com](https://community.iriusrisk.com/)
+
+VisualParadigm
+
+- https://online.visual-paradigm.com/diagrams/templates/threat-model-diagram/threat-modeling/
+
+### General links:
+
+https://github.com/hysnsec/awesome-threat-modelling
+
 ## License
 
 This course is licensed under the [MIT License](./LICENSE).
