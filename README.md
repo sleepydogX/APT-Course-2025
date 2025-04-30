@@ -89,6 +89,11 @@ VisualParadigm
 
 - https://online.visual-paradigm.com/diagrams/templates/threat-model-diagram/threat-modeling/
 
+CTID - Adversary Emulation Library:
+
+- https://github.com/center-for-threat-informed-defense
+- https://ctid.mitre.org/
+
 ### General links:
 
 https://github.com/hysnsec/awesome-threat-modelling
